@@ -25,5 +25,7 @@
 
 # concatanetion is the process of combining strings with variables 
 
-favorite_animal= input("what is your favorite animal?")
-print("your favorite animal is a "+ favorite_animal)
+# favorite_animal= input("what is your favorite animal?")
+# print("your favorite animal is a "+ favorite_animal)
+
+# lets do some pratice 
