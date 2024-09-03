@@ -31,3 +31,7 @@
 # lets do some pratice 
 
 # I like tacos & football
+
+
+# skibidi toilet is better than the MCU
+# baby gronk gets mogged by the rizzler while ishowspeed has a grimace shake in ohio when he starts looks maxing with mr beast, duke dennis, & p diddy.  When all the sudent, p diddy gives drake that hawk tuah
